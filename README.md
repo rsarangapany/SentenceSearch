@@ -2,6 +2,11 @@
 
 ### Setup.
 
+Add the following nugets:
+
+> * Microsoft.Extensions.DependencyInjection.Abstraction;
+> * Microsoft.Extensions.DependencyInjection;
+
 *The language models for Open NLP get automatically published to your bin directory.* 
 
 This can be accessed via: 
@@ -15,11 +20,6 @@ var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Bin\\Resource\
 //For console application
 var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Resource\\Models"; 
 ```
-
-You will need to add the following nugets:
-
-> * Microsoft.Extensions.DependencyInjection.Abstraction;
-> * Microsoft.Extensions.DependencyInjection;
 
 If you are using your own IOC container then you will have to configure your IOC to work with this.
 
