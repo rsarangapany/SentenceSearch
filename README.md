@@ -6,12 +6,12 @@
 
 This can be accessed via: 
 
-'var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Bin\\Resource\\Models";'
+> var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Bin\\Resource\\Models";
 
-You will beed to add the following nugets
+You will beed to add the following nugets:
 
-Microsoft.Extensions.DependencyInjection.Abstraction;
-Microsoft.Extensions.DependencyInjection;
+> Microsoft.Extensions.DependencyInjection.Abstraction;
+> Microsoft.Extensions.DependencyInjection;
 
 If you are using your own IOC container then you will have to configure your IOC to work with thi.
 
