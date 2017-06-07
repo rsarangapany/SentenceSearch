@@ -1,6 +1,6 @@
 # Sentence search using NLP
 
-Setup.
+<strong>Setup.</strong>
 
 The language models for Open NLP get automatically published to your bin directory. 
 
