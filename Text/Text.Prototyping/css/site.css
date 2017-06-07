@@ -39,12 +39,12 @@ html {
     height: 100%;
     padding-top: 100px;
     text-align: left;
-    background: #eee;
+    background: #fff;
 }
 
 .results-section {
     height: 100%;
     padding-top: 100px;
     text-align: left;
-    background: #fff;
+    background: #eee;
 }
