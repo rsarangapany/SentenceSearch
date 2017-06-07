@@ -1,12 +1,12 @@
 # Sentence search using NLP
 
-<strong>Setup.</strong>
+###Setup.
 
-The language models for Open NLP get automatically published to your bin directory. 
+*The language models for Open NLP get automatically published to your bin directory.* 
 
 This can be accessed via: 
 
-var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Bin\\Resource\\Models";
+'var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Bin\\Resource\\Models";'
 
 You will beed to add the following nugets
 
