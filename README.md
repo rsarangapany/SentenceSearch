@@ -28,12 +28,12 @@ Add the following namespaces
 ```c#
 using Microsoft.Extensions.DependencyInjection;
 using Text.Extract;
-using Text.Extract.Factory;
 using Text.Extract.Tag;
-using Text.NaturalLanguageProcessing;
-using Text.Prototyping.Models;
+using Text.Extract.Factory;
 using Text.Search;
 using Text.Search.Factory;
+using Text.NaturalLanguageProcessing;
+using Text.Prototyping.Models;
 ```
 
 Once setup use the following code to use the libraries
