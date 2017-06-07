@@ -1,0 +1,219 @@
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\acronyms
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\cmodel.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\cmodel_nr.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\defmodel.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\defmodel_nr.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\fmodel.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\fmodel_nr.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\gen.fem
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\gen.mal
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\gen.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\imodel.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\imodel_nr.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\num.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\plmodel.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\plmodel_nr.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\pmodel.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\pmodel_nr.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\pnmodel.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\pnmodel_nr.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\sim.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\tmodel.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\tmodel_nr.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\EnglishChunk.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\EnglishPOS.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\EnglishSD.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\EnglishTok.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\date.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\location.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\money.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\organization.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\percentage.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\person.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\time.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\organization.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\build.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\check.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\chunk.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\date.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\head_rules
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\tag.nbin
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\tagdict
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\adj.exc
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\adv.exc
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\cntlist
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\cntlist.rev
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\data.adj
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\data.adv
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\data.noun
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\data.verb
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\frames.vrb
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.adj
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.adv
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.noun
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.sense
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.verb
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\log.grind.2.1
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\noun.exc
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\sentidx.vrb
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\sents.vrb
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\verb.exc
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\verb.Framestext
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Text.Search.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Text.Search.pdb
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\OpenNLP.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\SharpEntropy.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\obj\Debug\Text.Search.csprojResolveAssemblyReference.cache
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\obj\Debug\Text.Search.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\obj\Debug\Text.Search.pdb
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Text.NaturalLanguageProcessing.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Text.NaturalLanguageProcessing.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\acronyms
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\cmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\cmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\defmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\defmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\fmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\fmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\gen.fem
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\gen.mal
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\gen.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\imodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\imodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\num.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\plmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\plmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\pmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\pmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\pnmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\pnmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\sim.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\tmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Coref\tmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\EnglishChunk.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\EnglishPOS.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\EnglishSD.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\EnglishTok.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\date.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\location.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\money.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\organization.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\percentage.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\person.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\NameFind\time.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\organization.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\build.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\check.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\chunk.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\date.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\head_rules
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\tag.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\Models\Parser\tagdict
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\adj.exc
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\adv.exc
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\cntlist
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\cntlist.rev
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\data.adj
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\data.adv
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\data.noun
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\data.verb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\frames.vrb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.adj
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.adv
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.noun
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.sense
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\index.verb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\log.grind.2.1
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\noun.exc
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\sentidx.vrb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\sents.vrb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\verb.exc
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Resource\WordNet\dict\verb.Framestext
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Text.Search.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Text.Search.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Text.NaturalLanguageProcessing.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\OpenNLP.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\SharpEntropy.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Text.NaturalLanguageProcessing.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\obj\Debug\Text.Search.csprojResolveAssemblyReference.cache
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\obj\Debug\Text.Search.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Search\obj\Debug\Text.Search.pdb
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\acronyms
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\cmodel.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\cmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\defmodel.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\defmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\fmodel.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\fmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\gen.fem
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\gen.mal
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\gen.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\imodel.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\imodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\num.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\plmodel.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\plmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\pmodel.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\pmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\pnmodel.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\pnmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\sim.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\tmodel.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Coref\tmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\EnglishChunk.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\EnglishPOS.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\EnglishSD.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\EnglishTok.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\NameFind\date.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\NameFind\location.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\NameFind\money.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\NameFind\organization.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\NameFind\percentage.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\NameFind\person.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\NameFind\time.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\organization.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Parser\build.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Parser\check.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Parser\chunk.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Parser\date.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Parser\head_rules
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Parser\tag.nbin
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\Models\Parser\tagdict
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\adj.exc
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\adv.exc
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\cntlist
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\cntlist.rev
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\data.adj
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\data.adv
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\data.noun
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\data.verb
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\frames.vrb
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\index.adj
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\index.adv
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\index.noun
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\index.sense
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\index.verb
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\log.grind.2.1
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\noun.exc
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\sentidx.vrb
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\sents.vrb
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\verb.exc
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Resource\WordNet\dict\verb.Framestext
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Text.Search.dll
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Text.Search.pdb
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Text.NaturalLanguageProcessing.dll
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\OpenNLP.dll
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\SharpEntropy.dll
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Text.NaturalLanguageProcessing.pdb
+C:\GitHub\SentenceSearch\Text.Search\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\GitHub\SentenceSearch\Text.Search\obj\Debug\Text.Search.csprojResolveAssemblyReference.cache
+C:\GitHub\SentenceSearch\Text.Search\obj\Debug\Text.Search.dll
+C:\GitHub\SentenceSearch\Text.Search\obj\Debug\Text.Search.pdb

@@ -1,0 +1,218 @@
+﻿@model Text.Prototyping.Models.HomeViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Text search and extraction</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="~/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="~/css/site.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">Sentence searching</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                <li class="hidden">
+                    <a href="#intro"></a>
+                </li>
+                <li>
+                    <a href="#process">Process</a>
+                </li>
+                <li>
+                    <a href="#demo">Demo</a>
+                </li>
+                @if (Model.SearchResults != null)
+                {
+                <li>
+                    <a href="#results">Results</a>
+                </li>
+                }
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- intro -->
+<section id="intro" class="intro-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Sentence search and extraction using NLP</h1>
+                <p>The library can be used to for searching for relevant content/sentences within a document using keywords.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>Ranking and scoring</h3>
+                <p>
+                    <ul>
+                        <li>Cosine similarity</li>
+                        <li>Levenshtein distance</li>
+                        <li>No of matched terms</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>Sentence breakdown and word tokanization</h3>
+                <p>
+                    <ul>
+                        <li><a href="https://opennlp.apache.org/" target="_Blank">Apache Open NLP library</a></li>
+                        <li>A .net port of the library can be found on git hub <a href="https://github.com/AlexPoint/OpenNlp" target="_Blank">here.</a></li>
+                        <li>This port has a <a href="https://www.nuget.org/packages/OpenNLP/" target="_Blank">Nuget package</a> which has been used in this project.</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>English stemming</h3>
+                <p>
+                    <ul>
+                        <li>An implementation of <a href="http://snowball.tartarus.org/algorithms/english/stemmer.html" target="_Blank">porter 2 stemming algorithm</a> has been used.</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+    
+<section id="process" class="process-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>Algorithm / Process</h3>
+                <ul>
+                    <li>Apply sentence line break filer to document to remove all line breaks</li>
+                    <li>Apply sentence tab break filer to document to remove all tab breaks</li>
+                    <li>Break document into sentences using NLP and index it</li>
+                    <li>Break each sentence into tokens(words) using NLP and calculate the start and end index</li>
+                    <li>Apply stop word filer and remove all stop words</li>
+                    <li>Stem each word (Document)</li>
+                    <li>Create an in-memory index with words and its related sentences</li>
+                    <li>Take the search phrase and break it into sentences</li>
+                    <li>Tokanize the search phrase sentences into word</li>
+                    <li>Apply stop word filer and remove all stop words</li>
+                    <li>Stem each word (Search phrase)</li>
+                    <li>Apply cosine similarity rank calculation and generate a score / per sentence</li>
+                    <li>Apply levenshtein distance and generate a score / per sentence</li>
+                    <li>Apply no of terms matched and generate a score / per sentence</li>
+                    <li>Sum all scores for rank score/ per sentence</li>
+                    <li>Order sentences by score (Greater the score better the match)</li>
+                    <li>Apply extraction rules.
+                        <ul>
+                            <li><strong>Tag:</strong> Tag the recognized search terms with "Tag"</li>
+                            <li><strong>Reduct:</strong> Reduct the list of specified words with the reductions rules and tag it with "Reduct"</li>
+                        </ul>
+                    </li>
+                    <li>Return the result list</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- sample -->
+<section id="demo" class="demo-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>Demo</h2>
+            </div>
+        </div>
+        <form method="post" action="~/Home/Search#results">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3>Sample content</h3>
+                    <textarea name="documentText" rows="10" style="width: 100%">@Model.DocumentText</textarea>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3>Sample anonymised words</h3>
+                    <input name="anoymisedText" type="text" style="width: 250px" value="@Model.AnoymisedText" />
+                    <p>comma ',' seperated words</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3>Sample search phrase</h3>
+                    <input name="searchText" type="text" style="width: 250px" value="@Model.SearchText"/>
+                    <input type="submit" value="Search"/>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+    
+@if (Model.SearchResults != null)
+{
+<!-- sample results -->
+<section id="results" class="results-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>Results</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                @foreach (var snippet in Model.SearchResults)
+                {
+                    <label>Rank score</label>
+                    <p>@snippet.Rank</p>
+                    <label>Extract</label>
+                    <p>@snippet.Text</p>
+                    <hr/>
+                }
+            </div>
+        </div>
+    </div>
+</section>
+}
+
+<!-- jQuery -->
+<script src="~/js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="~/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

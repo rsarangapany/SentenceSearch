@@ -1,0 +1,289 @@
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csc.exe
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csc.exe.config
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csc.rsp
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csi.exe
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csi.rsp
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.AppContext.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\vbc.exe
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\vbc.exe.config
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\vbc.rsp
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\VBCSCompiler.exe
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Prototyping.dll.config
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Prototyping.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Prototyping.pdb
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Helpers.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Mvc.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Razor.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.Razor.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Razor.xml
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.xml
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.Razor.xml
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Helpers.xml
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Mvc.xml
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\obj\Debug\Text.Prototyping.csprojResolveAssemblyReference.cache
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\obj\Debug\Text.Prototyping.dll
+C:\Users\ram.sarangapany\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\obj\Debug\Text.Prototyping.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csc.exe
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csc.exe.config
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csc.rsp
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csi.exe
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\csi.rsp
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.AppContext.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.Collections.Immutable.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.IO.FileSystem.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\System.Reflection.Metadata.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\vbc.exe
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\vbc.exe.config
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\vbc.rsp
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\VBCSCompiler.exe
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\roslyn\VBCSCompiler.exe.config
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Prototyping.dll.config
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Prototyping.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Prototyping.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.Web.Infrastructure.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Helpers.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Mvc.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Razor.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.Deployment.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.Razor.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Razor.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.Deployment.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Webpages.Razor.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Helpers.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Web.Mvc.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\obj\Debug\Text.Prototyping.csprojResolveAssemblyReference.cache
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\obj\Debug\Text.Prototyping.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\obj\Debug\Text.Prototyping.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\acronyms
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\cmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\cmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\defmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\defmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\fmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\fmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\gen.fem
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\gen.mal
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\gen.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\imodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\imodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\num.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\plmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\plmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\pmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\pmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\pnmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\pnmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\sim.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\tmodel.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Coref\tmodel_nr.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\EnglishChunk.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\EnglishPOS.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\EnglishSD.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\EnglishTok.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\NameFind\date.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\NameFind\location.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\NameFind\money.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\NameFind\organization.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\NameFind\percentage.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\NameFind\person.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\NameFind\time.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\organization.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Parser\build.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Parser\check.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Parser\chunk.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Parser\date.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Parser\head_rules
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Parser\tag.nbin
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\Models\Parser\tagdict
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\adj.exc
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\adv.exc
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\cntlist
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\cntlist.rev
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\data.adj
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\data.adv
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\data.noun
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\data.verb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\frames.vrb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\index.adj
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\index.adv
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\index.noun
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\index.sense
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\index.verb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\log.grind.2.1
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\noun.exc
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\sentidx.vrb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\sents.vrb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\verb.exc
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Resource\WordNet\dict\verb.Framestext
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Extract.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.NaturalLanguageProcessing.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Search.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\OpenNLP.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\SharpEntropy.dll
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Extract.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.NaturalLanguageProcessing.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Text.Search.pdb
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\OneDrive\Code\Prototypes\Open NLP\SnipetExtraction\Text.Prototyping\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\acronyms
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\cmodel.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\cmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\defmodel.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\defmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\fmodel.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\fmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\gen.fem
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\gen.mal
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\gen.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\imodel.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\imodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\num.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\plmodel.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\plmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\pmodel.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\pmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\pnmodel.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\pnmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\sim.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\tmodel.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Coref\tmodel_nr.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\EnglishChunk.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\EnglishPOS.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\EnglishSD.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\EnglishTok.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\NameFind\date.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\NameFind\location.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\NameFind\money.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\NameFind\organization.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\NameFind\percentage.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\NameFind\person.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\NameFind\time.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\organization.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Parser\build.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Parser\check.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Parser\chunk.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Parser\date.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Parser\head_rules
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Parser\tag.nbin
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\Models\Parser\tagdict
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\adj.exc
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\adv.exc
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\cntlist
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\cntlist.rev
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\data.adj
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\data.adv
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\data.noun
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\data.verb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\frames.vrb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\index.adj
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\index.adv
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\index.noun
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\index.sense
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\index.verb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\log.grind.2.1
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\noun.exc
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\sentidx.vrb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\sents.vrb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\verb.exc
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Resource\WordNet\dict\verb.Framestext
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\csc.exe
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\csc.exe.config
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\csc.rsp
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\csi.exe
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\csi.rsp
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\System.AppContext.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\System.Collections.Immutable.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\System.IO.FileSystem.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\System.Reflection.Metadata.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\vbc.exe
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\vbc.exe.config
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\vbc.rsp
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\VBCSCompiler.exe
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\roslyn\VBCSCompiler.exe.config
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.Prototyping.dll.config
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.Prototyping.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.Prototyping.pdb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Microsoft.Web.Infrastructure.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Helpers.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Mvc.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Razor.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Webpages.Deployment.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Webpages.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Webpages.Razor.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.Extract.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.NaturalLanguageProcessing.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.Search.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\OpenNLP.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\SharpEntropy.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.Extract.pdb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.NaturalLanguageProcessing.pdb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Text.Search.pdb
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Razor.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Webpages.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Webpages.Deployment.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Webpages.Razor.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Helpers.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\bin\System.Web.Mvc.xml
+C:\GitHub\SentenceSearch\Text.Prototyping\obj\Debug\Text.Prototyping.csprojResolveAssemblyReference.cache
+C:\GitHub\SentenceSearch\Text.Prototyping\obj\Debug\Text.Prototyping.dll
+C:\GitHub\SentenceSearch\Text.Prototyping\obj\Debug\Text.Prototyping.pdb
