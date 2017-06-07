@@ -23,6 +23,19 @@ You will need to add the following nugets:
 
 If you are using your own IOC container then you will have to configure your IOC to work with this.
 
+Add the following namespaces
+
+```c#
+using Microsoft.Extensions.DependencyInjection;
+using Text.Extract;
+using Text.Extract.Factory;
+using Text.Extract.Tag;
+using Text.NaturalLanguageProcessing;
+using Text.Prototyping.Models;
+using Text.Search;
+using Text.Search.Factory;
+```
+
 Once setup use the following code to use the libraries
 
 ```C#
