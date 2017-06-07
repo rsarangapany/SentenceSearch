@@ -6,7 +6,7 @@
 
 This can be accessed via: 
 
-> var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Bin\\Resource\\Models";
+> ```c# var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Bin\\Resource\\Models"; ```
 
 You will beed to add the following nugets:
 
