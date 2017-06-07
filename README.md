@@ -1,1 +1,1 @@
-# SentenceSearch
+# Sentence search using NLP
