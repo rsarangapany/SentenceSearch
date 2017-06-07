@@ -10,8 +10,8 @@ This can be accessed via:
 
 You will beed to add the following nugets:
 
-> Microsoft.Extensions.DependencyInjection.Abstraction;
-> Microsoft.Extensions.DependencyInjection;
+> * Microsoft.Extensions.DependencyInjection.Abstraction;
+> * Microsoft.Extensions.DependencyInjection;
 
 If you are using your own IOC container then you will have to configure your IOC to work with thi.
 
