@@ -7,7 +7,13 @@
 This can be accessed via: 
 
 ```C# 
+//For web application
 var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Bin\\Resource\\Models"; 
+```
+
+```C# 
+//For console application
+var languageModelPaths = $"{AppDomain.CurrentDomain.BaseDirectory}Resource\\Models"; 
 ```
 
 You will need to add the following nugets:
