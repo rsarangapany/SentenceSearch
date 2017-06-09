@@ -71,6 +71,8 @@ var snippets = textExtractionServiceFactory.TextExtract.ExtractSnippets(model.Do
 #### MVC Application
 
 ```c#
+
+//On startup class
 public void ConfigureServices(IServiceCollection serviceCollection)
 {
     //Register the services
@@ -79,6 +81,7 @@ public void ConfigureServices(IServiceCollection serviceCollection)
     serviceCollection.RegisterExtractService();
 }
 
+//On a controller
 public class SentenceController : Controller
 {
     public SentenceController(ITextSearchFactory textServiceFactory, ITextExtractFactory textExtractionServiceFactory)
