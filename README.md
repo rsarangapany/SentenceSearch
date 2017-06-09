@@ -38,7 +38,7 @@ using Text.Prototyping.Models;
 
 Once setup use the following code to use the libraries
 
-Console application
+### Console application
 
 ```C#
 IServiceCollection serviceCollection = new ServiceCollection();
@@ -68,7 +68,7 @@ var snippets = textExtractionServiceFactory.TextExtract.ExtractSnippets(model.Do
 
 ```
 
-MVC Application
+#### MVC Application
 
 ```c#
 public void ConfigureServices(IServiceCollection serviceCollection)
