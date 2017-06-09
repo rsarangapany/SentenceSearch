@@ -38,6 +38,8 @@ using Text.Prototyping.Models;
 
 Once setup use the following code to use the libraries
 
+Console application
+
 ```C#
 IServiceCollection serviceCollection = new ServiceCollection();
 
@@ -63,5 +65,35 @@ var extractTags = new IExtractTag[]
 
 //Extract the snippets
 var snippets = textExtractionServiceFactory.TextExtract.ExtractSnippets(model.DocumentText, model.SearchText, extractTags);
+
+```
+
+MVC Application
+
+```c#
+public void ConfigureServices(IServiceCollection serviceCollection)
+{
+    //Register the services
+    serviceCollection.RegisterNaturalLanguageProcessingService(languageModelPaths);
+    serviceCollection.RegisterSearchService();
+    serviceCollection.RegisterExtractService();
+}
+
+public class SentenceController : Controller
+{
+    public SentenceController(ITextSearchFactory textServiceFactory, ITextExtractFactory textExtractionServiceFactory)
+    {
+        //Setup the extraction rules
+        //Currently supported rules are FoundTag &  AnonymiseTag
+        var extractTags = new IExtractTag[]
+        {
+            new FoundTag("Found"),
+            new AnonymiseTag("Anonymised", "*******", model.AnoymisedText.Split(','), textServiceFactory.TextService)
+        };
+
+        //Extract the snippets
+        var snippets = textExtractionServiceFactory.TextExtract.ExtractSnippets(model.DocumentText, model.SearchText, extractTags);
+    }    
+}
 
 ```
